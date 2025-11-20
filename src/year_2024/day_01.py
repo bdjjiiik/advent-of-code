@@ -1,4 +1,4 @@
-"""Year 2025, Day 1"""
+"""Year 2024, Day 1"""
 
 from __future__ import annotations
 

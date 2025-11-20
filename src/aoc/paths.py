@@ -4,7 +4,7 @@ from __future__ import annotations
 
 from pathlib import Path
 
-# Root of the source tree (where `aoc`, `year_2024`, `year_2025`, ... live)
+# Root of the source tree (where `aoc`, `year_2024`, `year_2024`, ... live)
 SRC_ROOT = Path("src")
 
 # Name of the directory inside each year package where input data lives.
