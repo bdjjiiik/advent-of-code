@@ -8,9 +8,9 @@ def get_template(year: int, day: int) -> str:
 from typing import Any
 
 
-def parse(data: str) -> Any:
+def parse(text: str) -> Any:
     """Parse input data."""
-    lines = data.strip().split("\\n")
+    lines = text.strip().split("\\n")
     # TODO: Implement parsing
     return lines
 
